@@ -1,0 +1,2 @@
+# PatronRepositorioYPruebas
+Creacion del proyecto
